@@ -1,5 +1,7 @@
 # HTTP Request Tool
 
+**NOTE** Requires python3.6 and lib requests version 2.18.4
+
 Simple script for testing HTTP requests
 
 ```
